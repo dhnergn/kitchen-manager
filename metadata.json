@@ -1,0 +1,6 @@
+{
+  "name": "Kitchen Manager",
+  "description": "An efficient kitchen management app for chefs to organize recipes, track inventory stock levels, and coordinate staff shift schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
